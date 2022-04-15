@@ -11,7 +11,7 @@
 
 > 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Juice-Kid/eco)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/bb2thegreat/bb2)
 
 </div><br/>
 <br/>
